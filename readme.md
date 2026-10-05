@@ -11,5 +11,7 @@ For this beginner version (V0.1), we are using:
 - **Backend:** Python, FastAPI
 - **Database:** SQLite
 
+## Web app location
+https://issue-tracker-593.preview.emergentagent.com/?utm_source=share
 ## Goal
 The goal of this V0.1 project is to understand the absolute fundamentals of Computer Science, Client-Server Architecture, and Web Development.
